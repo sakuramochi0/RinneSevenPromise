@@ -1,0 +1,2 @@
+# RinneSevenPromise
+りんねちゃんとの7つの約束を守る人のためのAndroid/iOSアプリ
